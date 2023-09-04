@@ -19,6 +19,7 @@ for key, value in friends.items():
 # есть только у одного
 for key, value in friends.items():
     staff = []
+
     for key_friend, value_friend in friends.items():
         if key != key_friend:
             if staff == []:
@@ -27,7 +28,7 @@ for key, value in friends.items():
                 staff = set(staff) - set(value_friend)
 
     if staff == set():
-        staff = "Печально, но нет уникальности("
+        continue
     item_one_friend[key] = staff
 
 # Есть у всех кроме одного
