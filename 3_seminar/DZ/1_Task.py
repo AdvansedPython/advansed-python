@@ -5,7 +5,7 @@ friends = {"Lee":("bag","laptop", "axe","tent","shoes","clothes"),\
 all_items = []
 items_all_friends = None
 item_one_friend = dict()
-items_all_friends = None
+items_one_friend_dont_have = {}
 
 # есть у всех
 for key, value in friends.items():
@@ -32,7 +32,14 @@ for key, value in friends.items():
     item_one_friend[key] = staff
 
 # Есть у всех кроме одного
+# count_friends = len(friends)
 
+# for key, value in friends.items():
+#     for item in set(value):
+#         all_items.append(item)
+# for item in all_items:
+    
+# print(all_items)
         
             
 
