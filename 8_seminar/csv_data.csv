@@ -1,0 +1,16 @@
+Directory name,Parent,Type,size
+csv_data.csv,/home/neotyanka/Рабочий стол/Python Advansed/8_seminar,File,1596
+json_data.json,/home/neotyanka/Рабочий стол/Python Advansed/8_seminar,File,2722
+pickle_data,/home/neotyanka/Рабочий стол/Python Advansed/8_seminar,File,747
+Task_1.py,/home/neotyanka/Рабочий стол/Python Advansed/8_seminar/DZ,File,1809
+write_to_pickle.py,/home/neotyanka/Рабочий стол/Python Advansed/8_seminar/DZ/convert,File,139
+write_to_Json.py,/home/neotyanka/Рабочий стол/Python Advansed/8_seminar/DZ/convert,File,199
+__init__.cpython-310.pyc,/home/neotyanka/Рабочий стол/Python Advansed/8_seminar/DZ/convert/__pycache__,File,366
+write_to_Csv.cpython-310.pyc,/home/neotyanka/Рабочий стол/Python Advansed/8_seminar/DZ/convert/__pycache__,File,614
+write_to_pickle.cpython-310.pyc,/home/neotyanka/Рабочий стол/Python Advansed/8_seminar/DZ/convert/__pycache__,File,456
+write_to_Json.cpython-310.pyc,/home/neotyanka/Рабочий стол/Python Advansed/8_seminar/DZ/convert/__pycache__,File,523
+__pycache__,/home/neotyanka/Рабочий стол/Python Advansed/8_seminar/DZ/convert,Not File,1959
+__init__.py,/home/neotyanka/Рабочий стол/Python Advansed/8_seminar/DZ/convert,File,168
+write_to_Csv.py,/home/neotyanka/Рабочий стол/Python Advansed/8_seminar/DZ/convert,File,335
+convert,/home/neotyanka/Рабочий стол/Python Advansed/8_seminar/DZ,Not File,6896
+DZ,/home/neotyanka/Рабочий стол/Python Advansed/8_seminar,Not File,12801
